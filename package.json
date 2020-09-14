@@ -4,8 +4,8 @@
   "description": "Devcamper Backend API",
   "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=production node server",
-    "dev": "nodemon server.js"
+    "start": " nodemon server.js",
+    "prod": "NODE_ENV=production node server"
   },
   "author": "Anish Bhateja",
   "license": "MIT",
